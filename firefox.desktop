@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=firefox
+Comment=firefox
+Exec=/opt/firefox/firefox
+Icon=/opt/firefox/browser/chrome/icons/default/default128.png
+Terminal=false
+Type=Application
+Categories=Application;
+Encoding=UTF-8
+StartupNotify=true
